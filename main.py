@@ -108,7 +108,7 @@ async def hollowgrave(interaction):
 @tree.command(name="honse", description="i like the honses and the dobs")
 async def honse(interaction):
 	print(f"{interaction.user} has called /{interaction.command.name}")
-	await interaction.response.send_message(file=discord.File("assets/HONSE.png"))
+	await interaction.response.send_message(file=discord.File("assets/b1f-737620639.gif"))
 
 @tree.command(name="hoot6", description="hoot6.wav")
 async def hoot6(interaction):
